@@ -104,7 +104,7 @@ and visit [http://localhost:3000](http://localhost:3000).
 | 👤 **Tim Jackson**                                           | 👤 **savwiley**                                            | 👤 **rankoliang**                                   |
 | ------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------------------------- |
 | Github:[@timjacksonm](https://github.com/timjacksonm)        | Github:[@savwiley](https://github.com/savwiley)            | Github:[@rankoliang](https://github.com/rankoliang) |
-| Twitter:[@timjacksonmn](https://twitter.com/timjacksonmn)    | Twitter:[@savwiley](https://twitter.com/savwiley)          | N/A                                                 |
+| Twitter:[@timjacksonm](https://twitter.com/timjacksonm)      | Twitter:[@savwiley](https://twitter.com/savwiley)          | N/A                                                 |
 | LinkedIn:[@timjacksonm](https://linkedin.com/in/timjacksonm) | LinkedIn:[@savwiley](https://www.linkedin.com/in/savwiley) | N/A                                                 |
 
 ## Credits
